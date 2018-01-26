@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "2797953489",
+    "firebase_url": "https://feedstocktomanagement.firebaseio.com",
+    "project_id": "feedstocktomanagement",
+    "storage_bucket": "feedstocktomanagement.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2797953489:android:6648ebd4e7e3150e",
+        "android_client_info": {
+          "package_name": "com.example.vinicius.feedstocktomanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2797953489-ssotfgbt71ubfdnnrufnsrttr7d5vc4f.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "2797953489-jggr7s3a46oq5j2j8u5q5t9okv6uq67g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM1W_lZnNxNfE4PBE6dr4v3bGtl-wKMg0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
